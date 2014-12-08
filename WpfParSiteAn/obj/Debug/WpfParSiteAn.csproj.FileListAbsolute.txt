@@ -1,0 +1,26 @@
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\bin\Debug\WpfParSiteAn.exe.config
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\bin\Debug\WpfParSiteAn.exe
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\bin\Debug\WpfParSiteAn.pdb
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\MainWindow.baml
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\MainWindow.g.cs
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\App.g.cs
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn_MarkupCompile.cache
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.g.resources
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.exe
+c:\users\vadim\documents\visual studio 2013\Projects\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.pdb
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\bin\Debug\WpfParSiteAn.exe.config
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.exe
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.pdb
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\bin\Debug\WpfParSiteAn.exe
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\bin\Debug\WpfParSiteAn.pdb
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.csprojResolveAssemblyReference.cache
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\MainWindow.baml
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\MainWindow.g.cs
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\App.g.cs
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn_MarkupCompile.cache
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.g.resources
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.Properties.Resources.resources
+D:\Kristina's\AI\4course\C#Lib\WpfParSiteAn\WpfParSiteAn\WpfParSiteAn\obj\Debug\WpfParSiteAn.csproj.GenerateResource.Cache
