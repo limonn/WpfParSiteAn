@@ -22,8 +22,14 @@ namespace WpfParSiteAn
 
             // The Text property on a TextRange object returns a string
             // representing the plain text content of the TextRange.
-
-            return Regex.Split(textRange.Text, "\r\n").Where(x => !string.IsNullOrWhiteSpace(x)).ToList();
+            try
+            {
+                IList<string> res = Regex.Split(textRange.Text, "\r\n").Where(x => !string.IsNullOrWhiteSpace(x)).ToList();
+                return res;
+            } catch (Exception e)
+            {
+                return new List<string>();
+            }
         }
     }
 }

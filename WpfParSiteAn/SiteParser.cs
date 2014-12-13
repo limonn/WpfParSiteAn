@@ -27,13 +27,13 @@ namespace WpfParSiteAn
             return keywords.ToDictionary(x => x, y => downloadString.CountStringOccurrences(y)); // returns dictionary where key is keyword, value is number of occurences
         }
 
-        public static void AnalyseSites(IList<string> sites, IList<string> keywords, Action<IList<string>> updater, CancellationToken ct)
+        public static async void AnalyseSites(IList<string> sites, IList<string> keywords, Action<IList<string>> updater, CancellationToken ct)
         {
             var taskArray = sites.Select(x => Task<IDictionary<string, int>>.Factory.StartNew(() => GetKeywordCount(keywords, x))).ToList(); // get list of tasks. ToList forces lazy init. Otherwise tasks will be started when first accessed i.e. in foreach and because task.Result is synchronous operation it will lead to sequental site parsing
             var keywordCounts = new List<string>();
             for (var i = 0; i < taskArray.Count; i++) {
                 var task = taskArray[i];
-                task.Wait(5000);
+                await Task.Delay(5000, ct);
                 foreach (var keywordCount in task.Result)
                 {
                     if (ct.IsCancellationRequested)
